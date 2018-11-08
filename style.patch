@@ -1,0 +1,19 @@
+commit 51c3315c13c673ecae175928773a7a5f12b18ff9
+Author: Gereon Recht <gereon.recht@protonmail.com>
+Date:   Sat Oct 27 11:02:53 2018 +0200
+
+    Improve readability
+
+diff --git a/index.html b/index.html
+index a6433bc..c68a9fe 100644
+--- a/index.html
++++ b/index.html
+@@ -4,7 +4,7 @@
+     <title>Personal homepage of Axel Kölschbach Ortego</title>
+     <meta charset="UTF-8">
+   </head>
+-  <body>
++  <body style="max-width:800px; margin: auto; line-height: 1.4;">
+     <h1>Homepage of Axel Kölschbach Ortego</h1>
+       
+     <p>
